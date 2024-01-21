@@ -30,7 +30,7 @@ me = Innovator()
 me.introduce_myself()
 ```
 --->
-[Website](https://sites.google.com/view/danielle-mcintosh/home) | [LinkedIn](https://www.linkedin.com/in/innovatordaniellemcintosh)
+[Website](https://invtrdan.github.io/DanielleMcIntosh/index.html) | [LinkedIn](https://www.linkedin.com/in/innovatordaniellemcintosh)
 
 
 
