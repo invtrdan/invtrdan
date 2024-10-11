@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👩🏽‍💻Innovator Danielle 
 
-Hi! My name is Danielle McIntosh, and I am a Junior Computer Science Major at Howard University from Kingston, Jamaica 🇯🇲.
+Hi! My name is Danielle McIntosh, and I am a Software Engineer at Microsoft from Kingston, Jamaica 🇯🇲.
 
 <!---
 ```
